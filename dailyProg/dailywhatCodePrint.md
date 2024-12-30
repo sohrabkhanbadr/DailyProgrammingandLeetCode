@@ -4,6 +4,8 @@ This problem was asked by Google.
 
 What will this code print out?
 
+
+```python
 def make_functions():
     flist = []
 
@@ -17,6 +19,10 @@ def make_functions():
 functions = make_functions()
 for f in functions:
     f()
+```
+
+
+
 How can we make it print out what we apparently want?
 
 
