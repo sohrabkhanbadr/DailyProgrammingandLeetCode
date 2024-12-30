@@ -6,8 +6,7 @@ Given the root to a binary search tree, find the second largest node in the tree
 
 
 
-===============================================================================================
-
+===================================================================
 
 To find the second largest node in a binary search tree (BST), we can leverage the properties of the BST:
 
